@@ -1,1 +1,1 @@
-# SocialNetwork
+# React Native Social Network App
